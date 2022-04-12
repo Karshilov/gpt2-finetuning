@@ -1,6 +1,6 @@
 # GPT2 Fine-tuning 简短Trainer
 
-预训练模型推荐这里：https://github.com/Morizeyao/GPT2-Chinese
+预训练模型推荐这里的通用中文预训练模型：https://github.com/Morizeyao/GPT2-Chinese
 
 ## 依赖
 + torch==1.10.0+cu113
